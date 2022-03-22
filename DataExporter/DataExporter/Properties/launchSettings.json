@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataExporter": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\export_xyz Data\\dane.csv json"
+    }
+  }
+}
